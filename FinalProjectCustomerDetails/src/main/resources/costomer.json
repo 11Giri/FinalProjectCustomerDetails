@@ -1,0 +1,52 @@
+[{
+  "customerName": "Rohit",
+  "mobileNumber": "09864534565",
+  "country": "USA",
+  "foodItem": [{
+    "itemsName": "vegetables",
+    "itemsQuantity": 6
+  },
+    {
+      "itemsName": "grocery",
+      "itemsQuantity": 2
+    },
+    {
+      "itemsName": "ice_cream",
+      "itemsQuantity": 12
+    }
+  ],
+  "address": {
+    "city": "Miami",
+    "pincode": "30801",
+    "location": "East"
+  },
+  "institute": "Zorba"
+},
+  {
+    "customerName": "Test2",
+    "mobileNumber": "09864534566",
+    "country": "Nepal",
+    "foodItem": [
+      {
+        "itemsName": "vegetables",
+        "itemsQuantity": 8
+      },
+      {
+        "itemsName": "grocery",
+        "itemsQuantity": 3
+      },
+      {
+        "itemsName": "icecreame",
+        "itemsQuantity": 10
+      }
+      ],
+      "address" :{
+        "city": "Miami",
+        "pincode": "30801",
+        "location": "South"
+      },
+      "institute": "Organization"
+      }
+
+]
+

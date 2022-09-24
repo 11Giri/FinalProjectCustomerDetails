@@ -1,0 +1,65 @@
+[
+  {
+    "firstName": "R",
+    "lastName": "J",
+    "userName": "rj",
+    "email": "RJ@data.com",
+    "password": "rj@123",
+    "role" : [
+      {
+        "name": "ADMIN",
+        "dept": "Engg."
+      },
+      {
+        "name": "USER",
+        "dept": "Science"
+      }
+    ],
+    "address":{
+      "city": "Miami",
+      "pincode": "32801",
+      "location": "East"
+    },
+    "institute": "Zorba"
+  },
+  {
+    "firstName": "R1",
+    "lastName": "J1",
+    "userName": "r1j1",
+    "email": "RJ1@data.com",
+    "password": "rj1@123",
+    "role" : [
+      {
+        "name": "USER",
+        "dept": "SC3"
+      }
+    ],
+    "address":{
+      "city": "Florida",
+      "pincode": "32802",
+      "location": "West"
+    },
+    "institute": "Softed"
+  },
+  {
+    "firstName": "R3",
+    "lastName": "J3",
+    "userName": "r3j3",
+    "email": "RJ3@data.com",
+    "password": "rj3@123",
+    "role" : [
+      {
+        "name": "Admin",
+        "dept": "SC7"
+      },
+      {
+        "name": "R7",
+        "dept": "SC7"
+      }
+    ],
+    "address":{
+      "city": "Ohio",
+      "pincode": "32806",
+      "location": "South"
+    },
+    "institute": "Organization"
