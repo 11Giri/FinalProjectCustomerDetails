@@ -8,4 +8,5 @@ import lombok.Setter;
 public class ItemModel {
     private String itemsName;
     private Integer itemsQuantity;
+
 }
